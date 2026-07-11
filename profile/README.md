@@ -24,7 +24,7 @@ ReChan is a native C++ reimplementation project that brings a classic experience
 
 The project preserves the original gameplay while introducing improvements such as enhanced compatibility, modern rendering, improved tooling, and support for current systems.
 
-[GitHub Repository](https://github.com/Silverwire-Games/ReChan)
+[GitHub Repository](https://github.com/SilverwireGames/ReChan)
 
 </div>
 
