@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile/swlogo2.png" width="256" alt="Silverwire Games Logo">
+<img src="swlogo2.png" width="256" alt="Silverwire Games Logo">
 
 ### Independent Game Development & Engineering
 
